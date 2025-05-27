@@ -1,0 +1,99 @@
+Votre colis n’a pas pu être livré : adresse incorrecte
+Problème de livraison : vérifiez vos coordonnées
+Échec de livraison : adresse incomplète, action urgente
+Votre colis est en attente : erreur d’adresse détectée
+Livraison non effectuée : mettez à jour votre adresse
+Adresse erronée : reprogrammez votre livraison
+Tentative de livraison échouée le 22 mai 2025
+Votre colis nécessite une adresse correcte
+Erreur d’adresse : confirmez vos informations
+Livraison impossible : adresse à corriger
+Échec de livraison : vérifiez votre adresse
+Colis bloqué : adresse incomplète, action requise
+Mise à jour d’adresse nécessaire pour votre livraison
+Problème de livraison : adresse non valide
+Votre colis n’a pas été livré : action requise
+Erreur de livraison : fournissez une adresse valide
+Livraison en attente : confirmez votre adresse
+Échec de livraison : adresse erronée, agissez vite
+Votre colis sera retourné sans action sous 48h
+Adresse incorrecte : reprogrammation urgente
+Livraison non aboutie : vérifiez vos informations
+Problème d’adresse : colis en attente
+Échec de livraison : adresse à mettre à jour
+Votre colis attend une adresse complète
+Tentative de livraison infructueuse : corrigez l’adresse
+Erreur de livraison : action nécessaire sous 48h
+Adresse incomplète : colis non livrable
+Confirmez votre adresse pour recevoir votre colis
+Livraison échouée : adresse incorrecte détectée
+Votre colis attend : fournissez une adresse complète
+Problème de livraison : adresse non reconnue
+Échec de livraison : mettez à jour vos coordonnées
+Colis en attente : adresse correcte requise
+Livraison non effectuée : adresse à vérifier
+Erreur d’adresse : reprogrammez rapidement
+Tentative de livraison échouée : action urgente
+Votre colis nécessite une mise à jour d’adresse
+Livraison impossible : adresse incomplète
+Échec de livraison : corrigez votre adresse
+Adresse non valide : colis en attente
+Problème de livraison : confirmez vos coordonnées
+Votre colis n’a pas été livré : adresse erronée
+Erreur de livraison : adresse à corriger
+Livraison en attente : fournissez une adresse valide
+Échec de livraison : adresse incorrecte, agissez
+Votre colis attend vos instructions d’adresse
+Tentative de livraison non aboutie : corrigez vos informations
+Erreur de livraison : adresse incomplète, action immédiate
+Mettez à jour votre adresse pour votre colis
+Livraison échouée : adresse non conforme
+Colis bloqué : vérifiez votre adresse
+Problème d’adresse : livraison en attente
+Échec de livraison : confirmez votre adresse
+Adresse incorrecte : colis non livrable
+Livraison non effectuée : corrigez votre adresse
+Tentative de livraison échouée : mise à jour nécessaire
+Votre colis attend une adresse complète
+Erreur de livraison : agissez sous 48h
+Adresse non reconnue : reprogrammez votre livraison
+Livraison impossible : adresse erronée, action requise
+Échec de livraison : adresse à corriger rapidement
+Colis en attente : adresse non valide
+Problème de livraison : fournissez une adresse correcte
+Tentative de livraison infructueuse : vérifiez votre adresse
+Erreur d’adresse : colis nécessite une action
+Livraison non aboutie : adresse incomplète
+Confirmez vos coordonnées pour la livraison
+Échec de livraison : adresse erronée, corrigez
+Colis retourne à l’expéditeur sans mise à jour
+Adresse incorrecte : action urgente pour livrer
+Livraison échouée : mettez à jour vos informations
+Problème d’adresse : colis en attente d’action
+Échec de livraison : adresse non valide, action urgente
+Votre colis attend une adresse correcte
+Tentative de livraison échouée : corrigez vos coordonnées
+Erreur de livraison : adresse à mettre à jour sous 48h
+Adresse incomplète : reprogrammation requise
+Fournissez une adresse valide pour votre colis
+Livraison non effectuée : adresse erronée
+Problème de livraison : confirmez votre adresse
+Échec de livraison : adresse à corriger immédiatement
+Colis en attente : mise à jour d’adresse requise
+Tentative de livraison infructueuse : adresse non valide
+Erreur d’adresse : reprogrammez la livraison
+Livraison impossible : adresse incomplète, action nécessaire
+Échec de livraison : vérifiez vos coordonnées
+Adresse non reconnue : colis attend une action
+Problème de livraison : adresse à corriger
+Colis non livré : adresse incorrecte
+Tentative de livraison échouée : mise à jour urgente
+Erreur de livraison : adresse non conforme
+Livraison en attente : corrigez votre adresse
+Échec de livraison : adresse incomplète, agissez
+Colis attend vos instructions pour livraison
+Tentative de livraison non aboutie : confirmez l’adresse
+Erreur d’adresse : reprogrammation urgente
+Mettez à jour vos informations pour votre colis
+Livraison échouée : adresse non valide, action nécessaire
+Problème de livraison : adresse incorrecte, corrigez
